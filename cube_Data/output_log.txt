@@ -1,0 +1,45 @@
+Initialize engine version: 5.0.1f1 (5a2e8fe35a68)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 3000 (ID=0x126)
+    Vendor:   Intel
+    VRAM:     192 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Supertouki\Desktop\学習資料\unity3d\gyro-cube\gyro-wifi-20151108\cube_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Supertouki\Desktop\学習資料\unity3d\gyro-cube\gyro-wifi-20151108\cube_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Supertouki\Desktop\学習資料\unity3d\gyro-cube\gyro-wifi-20151108\cube_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Supertouki\Desktop\学習資料\unity3d\gyro-cube\gyro-wifi-20151108\cube_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Supertouki\Desktop\学習資料\unity3d\gyro-cube\gyro-wifi-20151108\cube_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Supertouki\Desktop\学習資料\unity3d\gyro-cube\gyro-wifi-20151108\cube_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.545 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\Supertouki\Desktop\学習資料\unity3d\gyro-cube\gyro-wifi-20151108\cube_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Supertouki\Desktop\学習資料\unity3d\gyro-cube\gyro-wifi-20151108\cube_Data\Managed\System.dll (this message is harmless)
+waiting for UDP dgram
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineMonoBehaviour.gen.cs:108)
+UdpServer:InitSocket() (at C:\Users\Supertouki\Desktop\gyro-cube\gyro-wifi\Assets\UdpServer.cs:36)
+UdpServer:Start() (at C:\Users\Supertouki\Desktop\gyro-cube\gyro-wifi\Assets\UdpServer.cs:98)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineMonoBehaviour.gen.cs Line: 108)
+
+Entering for Receiving
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 41f4 -> priority: 1 
+disconnect
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineMonoBehaviour.gen.cs:108)
+UdpServer:SocketQuit() (at C:\Users\Supertouki\Desktop\gyro-cube\gyro-wifi\Assets\UdpServer.cs:91)
+UdpServer:OnApplicationQuit() (at C:\Users\Supertouki\Desktop\gyro-cube\gyro-wifi\Assets\UdpServer.cs:110)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineMonoBehaviour.gen.cs Line: 108)
+
